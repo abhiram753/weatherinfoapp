@@ -3,7 +3,7 @@
 
 A simple yet stylish **Weather App** built with **HTML, CSS, and JavaScript** using the [OpenWeatherMap API](https://openweathermap.org/api).  
 This project demonstrates working with APIs, DOM manipulation, and responsive design — all without any frameworks.
-
+try out it here -- https://knowtheweather.ccbp.tech/
 ---
 
 ## 🚀 Features
